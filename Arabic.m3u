@@ -1,34 +1,33 @@
 #EXTM3U
-#EXTINF:-1, tvg-id="al aoula laayoune" tvg-logo="" group-title="Drama"
+#EXTINF:-1 tvg-id="al aoula laayoune" tvg-logo="" group-title=Drama
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
 #EXTINF:-1, tvg-id="al_aoula_inter" tvg-logo="" group-title="Drama"
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8
 
-#EXTINF:-1,
+#EXTINF:-1 tvg-id="Arriagia" tvg-logo="" group-title=Drama
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
-#EXTINF:-1,
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
-#EXTINF:-1,
+
+#EXTINF:-1 tvg-id="Tamazigiht" tvg-logo="" group-title=Drama
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
 #EXTINF:-1,
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/index.m3u8
-#EXTINF:-1,
+#EXTINF:-1 tvg-id="al_maghribia" tvg-logo="" group-title=Drama
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
 #EXTINF:-1,
 https://youtu.be/fUtadeUQ-Yk
 #EXTINF:-1,
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
-#EXTINF:-1,
+#EXTINF:-1 tvg-id="Syria TV" tvg-logo="" group-title=Drama
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8
-#EXTINF:-1,
+#EXTINF:-1 tvg-id="Al Arabya" tvg-logo="" group-title=Drama
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-#EXTINF:-1,
+#EXTINF:-1 tvg-id="Al Hadath" tvg-logo="" group-title=Drama
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 #EXTINF:-1,
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
-#EXTINF:-1,
+#EXTINF:-1 tvg-id="Dubai TV" tvg-logo="" group-title=Drama
 https://dmieigthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
-#EXTINF:-1,
+#EXTINF:-1 tvg-id="MBC Drama" tvg-logo="" group-title=Drama
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
 #EXTINF:-1,
 https://svs.itworkscdn.net/smc1live/smc1.smil//playlist.m3u8
@@ -60,7 +59,7 @@ https://shls-masr2-ak.akamaized.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/inde
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
 #EXTINF:-1,
 https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
-#EXTINF:-1,
+#EXTINF:-1 tvg-id="Noor Dubai" tvg-logo="" group-title=Drama
 https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b1500000.m3u8
 #EXTINF:-1,
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_chunks.m3u8
@@ -77,19 +76,19 @@ https://shls-masr2-ak.akamaized.net/out/v1/a639fd49db684f1b8c063d398101a888/inde
 #EXTINF:-1,
 https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b1500000.m3u8
 
-#EXTINF:-1,
+#EXTINF:-1 tvg-id="MBC 1" tvg-logo="" group-title=Drama
 https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_3.m3u8
 
 #EXTINF:-1,
 https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b1500000.m3u8
 
-#EXTINF:-1,
+#EXTINF:-1 tvg-id="MBC 3" tvg-logo="" group-title=Children
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_7.m3u8
 
-#EXTINF:-1,
+#EXTINF:-1 tvg-id="MBC 4" tvg-logo="" group-title=Drama
 https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_4.m3u8
 
-#EXTINF:-1,
+#EXTINF:-1 tvg-id="MBC Plus" tvg-logo="" group-title=Drama
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_7.m3u8
 
 #EXTINF:-1, tvg-id="Weyyak Drama" tvg-logo="" group-title="Weyyak Drama
@@ -98,10 +97,9 @@ https://weyyak-live.akamaized.net/weyyak_drama/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,
 http://rtmp1.abnsat.com/hls/arabic.m3u8
-#EXTINF:-1,
+#EXTINF:-1 tvg-id="Africa TV" tvg-logo="" group-title=Drama
 http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8
-#EXTINF:-1,
-http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8
+
 #EXTINF:-1,
 http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream/playlist.m3u8
 #EXTINF:-1,
@@ -118,7 +116,7 @@ http://82.212.74.3:8000/live/7512.m3u8
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:-1,
 http://htvpalsat.mada.ps:8888/audeh/index.m3u8
-#EXTINF:-1,
+#EXTINF:-1 tvg-id="Bahrain Sport" tvg-logo="" group-title=Drama
 http://185.105.4.106:1935/live/Bahrain+Sports/playlist.m3u8
 #EXTINF:-1,
 http://livear.cgtn.com/1000a/prog_index.m3u8
@@ -126,29 +124,29 @@ http://livear.cgtn.com/1000a/prog_index.m3u8
 http://185.105.4.236:1935/live/ngrp:livestream_all/live.m3u8
 #EXTINF:-1,
 http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8
-#EXTINF:-1,
+#EXTINF:-1 tvg-id="Daawh TV2" tvg-logo="" group-title=Drama
 http://51.15.246.58:8081/daawahtv/daawahtv2/playlist.m3u8
-#EXTINF:-1,
+#EXTINF:-1 tvg-id="Dijlah" tvg-logo="" group-title=Drama
 http://91.134.145.75:10001/Dijlah/index.m3u8
-#EXTINF:-1,
+#EXTINF:-1 tvg-id="Dubai One" tvg-logo="" group-title=Drama
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
-#EXTINF:-1,
+#EXTINF:-1 tvg-id="Jawhara FM" tvg-logo="" group-title=Drama
 http://streaming.toutech.net:1935/live/mp4:jawharafm.sdp/playlist.m3u8
-#EXTINF:-1,
+#EXTINF:-1 tvg-id="Mada" tvg-logo="" group-title=Drama
 http://htvpalsat.mada.ps:8888/musawa/index.m3u8
-#EXTINF:-1,
+#EXTINF:-1 tvg-id="Nabaa" tvg-logo="" group-title=Drama
 http://31.14.40.237:1935/live/Nabaa/playlist.m3u8
-#EXTINF:-1,
+#EXTINF:-1 tvg-id="Nablus Live" tvg-logo="" group-title=Drama
 http://htvmada.mada.ps:8888/nabluslive/index.m3u8
-#EXTINF:-1,
+#EXTINF:-1 tvg-id="OMG Channel" tvg-logo="" group-title=Drama
 http://media6.smc-host.com:1935/omgchannel.net/omgtv/playlist.m3u8
-#EXTINF:-1,
+#EXTINF:-1 tvg-id="Mada" tvg-logo="" group-title=Drama
 http://htvpalsat.mada.ps:8888/PBCLive/index.m3u8
-#EXTINF:-1,
+#EXTINF:-1 tvg-id="Mada" tvg-logo="" group-title=Drama
 http://htvpalsat.mada.ps:8888/PBC/index.m3u8
-#EXTINF:-1,
+#EXTINF:-1 tvg-id="Radio Al Balad" tvg-logo="" group-title=Drama
 http://streaming.zaytonatube.com:8080/radioalbalad/radioalbalad/playlist.m3u8
-#EXTINF:-1,
+#EXTINF:-1 tvg-id="Radio Fann" tvg-logo="" group-title=Drama
 http://188.247.86.66/RadioFann/CityView1/playlist.m3u8
 #EXTINF:-1,
 http://188.247.86.66/RadioFann/OnAirStudio1/playlist.m3u8
