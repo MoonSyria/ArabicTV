@@ -7,7 +7,7 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/
 #EXTINF:-1 tvg-id="Arriagia" tvg-logo="" group-title=Drama
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
 
-#EXTINF:-1 tvg-id="Tamazigiht" tvg-logo="https://imgtr.ee/images/2023/08/17/8c0b6fe8364649dce52cd3677f888ed5.jpeg" group-title=Sport Live
+#EXTINF:-1 tvg-id="SportLive" tvg-logo="https://imgtr.ee/images/2023/08/17/8c0b6fe8364649dce52cd3677f888ed5.jpeg" group-title=Sport Live
 https://sb2.livemodo.click/kf7xPKRKa1_ebOBn6JL7fw/1692328215/3138352e34372e3139322e3431/ff162/playlist.m3u8
 #EXTINF:-1,
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/index.m3u8
